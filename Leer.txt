@@ -1,0 +1,4 @@
+Proceso y trabajo explicado en "Prevención de enfermedades con ML".
+Distintos modelos extraidos del trabajo anterior en "Modelos".
+Datos utilizados en "data"
+Funciones auxiliares "Funciones3"
