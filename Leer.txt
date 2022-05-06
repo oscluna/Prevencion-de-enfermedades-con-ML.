@@ -1,5 +1,7 @@
 Proceso y trabajo explicado en "Prevención de enfermedades con ML".
-Distintos modelos extraidos del trabajo anterior en "Modelos".
+Distintos modelos extraidos del trabajo anterior en "Modelos". Nuestro mejor modelo es MYMODEL.
 Datos utilizados en "data"
 Funciones auxiliares "Funciones3"
 También se incluye una pequeña y básica presentación (junto con el guion para explicar las diapositivas) del trabajo.
+
+Para este trabajo no se han utilizado gráficos avanzados ni análisis inicial de datos mas allá de lo necesario para el problema. Esta decisión se tomó en base a los objetivos del trabajo; obtener un modelo de predicción para la detección precoz de esta familia de enfermedades, el uso correcto de las métricas para cada problema y denotar el avance que supone el optimizador bayesiano Optuna (mucho mas eficiente computacionalmente que la pura combinatoria de un GridSearch).
