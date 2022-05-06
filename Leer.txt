@@ -2,3 +2,4 @@ Proceso y trabajo explicado en "Prevención de enfermedades con ML".
 Distintos modelos extraidos del trabajo anterior en "Modelos".
 Datos utilizados en "data"
 Funciones auxiliares "Funciones3"
+También se incluye una pequeña y básica presentación (junto con el guion para explicar las diapositivas) del trabajo.
